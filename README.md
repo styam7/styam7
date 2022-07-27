@@ -25,9 +25,9 @@ A Full Stack Web developer🌈 from India.
 
 <p align="center">
  <!-- <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/piyush-eon/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/piyush.vo/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:piyushagarwalvo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/satyam-singh-193a00140/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Piyush%20Agarwal-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/satym.7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-piyush.vo-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:styam.7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-piyushagarwalvo@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/piyush-eon)-->
+ <!--⭐️ From [Piyush Agarwal](https://github.com/styam7)-->
