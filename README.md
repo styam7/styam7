@@ -30,4 +30,4 @@ A Full Stack Web developer🌈 from India.
 <a href="mailto:styam.7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-styam.7@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
- <!--⭐️ From [Piyush Agarwal](https://github.com/styam7)-->
+ <!--⭐️ From [Piyush Agarwal](https://github.com/styam7)--> 
